@@ -41,15 +41,6 @@ I am a 3rd-year student at **Bangkok University**, passionate about integrating 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supanat000&show_icons=true&theme=radical" height="180" alt="Supanat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supanat000&layout=compact&theme=radical" height="180" alt="Supanat's Top Langs" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 - 📞 **Phone:** 094-859-6868
