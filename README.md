@@ -44,4 +44,4 @@ I am a 3rd-year student at **Bangkok University**, passionate about integrating 
 ### 📫 Connect with Me
 
 - 📞 **Phone:** 094-859-6868
-- 📧 **Email:** supanat.pank@gmail.com
+- 📧 **Email:** supanat.pankiew@gmail.com
